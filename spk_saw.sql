@@ -77,8 +77,8 @@ CREATE TABLE IF NOT EXISTS `pengguna` (
 --
 
 INSERT INTO `pengguna` (`id_pengguna`, `nama_lengkap`, `username`, `password`) VALUES
-(1, 'T Ghazali', 'admin', '21232f297a57a5a743894a0e4a801fc3'),
-(2, 'Code Berkas', 'user', 'ee11cbb19052e40b07aac0ca060c23ee');
+(1, 'Komarudin Akbar', 'admin', 'd73f53718877dc21fa7bc9056214d485'),
+(2, 'Abay', 'user', 'd86abf4f734abebf036832a8bc51fdfa');
 
 -- --------------------------------------------------------
 
